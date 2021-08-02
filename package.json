@@ -1,0 +1,14 @@
+{
+  "name": "hackmd-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@hackmd/api": "^1.2.0",
+    "dotenv": "^10.0.0",
+    "ejs": "^3.1.6"
+  }
+}
